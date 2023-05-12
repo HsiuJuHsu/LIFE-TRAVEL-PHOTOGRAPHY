@@ -1,7 +1,3 @@
----
-title: About me 
----
----
-title: About me 
----
-This is Sherry, and I'm happy to share my life with you here!
+嗨！我是Sherry！歡迎來到我的Blog!
+在這個Blog裡，我會和大家分享我的日常生活、旅遊心得，以及一些攝影作品！
+希望你們會喜歡我的內容：）
