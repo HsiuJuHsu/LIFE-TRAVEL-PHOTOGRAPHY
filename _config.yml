@@ -1,1 +1,15 @@
 theme: minima
+
+title: Sherry's Blog
+author: Sherry Hsu
+email: sherry821001@gmail.com
+
+rss: rss
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  
+header_pages:
+  - Sherry.md
+ 
